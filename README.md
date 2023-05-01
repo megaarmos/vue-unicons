@@ -52,3 +52,6 @@ Unicons are Open Source icons and licensed under [Apache 2.0](https://www.apache
 ```html
 Vue Unicons by <a href="https://iconscout.com/">Iconscout</a>
 ```
+
+## Contributing
+This project was inspired by Vue Unicons from [simonepozzobon](https://github.com/simonepozzobon). The icons itself were designed by [Iconscout](https://github.com/iconscout/unicons). 
