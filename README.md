@@ -2,7 +2,7 @@
 
 1100+ Pixel-perfect vector icons as Vue Components. These icons are designed by [Iconscout](https://iconscout.com).
 
-## Vue 3 Support
+## Vue 3 and Vite Support
 **No more errors while trying to install package.**
 
 ## Getting Started
